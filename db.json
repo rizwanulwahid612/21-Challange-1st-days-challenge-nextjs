@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Smartphone",
+      "productName": "TechPhone XR",
+      "description": "Experience the latest in smartphone technology with the TechPhone X. Sleek design, powerful performance, and a stunning display make it a perfect companion for your digital lifestyle. Get yours today!"
+    },
+    {
+      "id": 2,
+      "title": "Laptop",
+      "productName": "UltraBook Pro",
+      "description": "The UltraBook Pro redefines portable computing. Lightweight, yet powerful, it delivers seamless multitasking and exceptional battery life. Elevate your productivity with the UltraBook Pro."
+    },
+    {
+      "id": 3,
+      "title": "Smartwatch",
+      "productName": "SyncFit Elite",
+      "description": "SyncFit Elite is not just a smartwatch; it's your fitness and health companion. Track your workouts, monitor your heart rate, and stay connected on the go. Stay active, stay connected with SyncFit Elite."
+    },
+    {
+      "id": 4,
+      "title": "Headphones",
+      "productName": "SonicBlast 5000",
+      "description": "Immerse yourself in a world of premium audio with SonicBlast 5000 headphones. Precision engineering and superior sound quality make every beat come alive. Elevate your audio experience with SonicBlast 5000."
+    },
+    {
+      "id": 5,
+      "title": "Camera",
+      "productName": "CapturePro 360",
+      "description": "Unleash your creativity with the CapturePro 360 camera. Whether you're a professional photographer or an amateur enthusiast, this camera's advanced features and intuitive controls will take your photography to new heights."
+    },
+    {
+      "id": 6,
+      "title": "Smart Home Hub",
+      "productName": "HomeMaster Plus",
+      "description": "Transform your home into a smart haven with HomeMaster Plus. Control lights, thermostats, and security systems with a single hub. Enjoy the convenience and security of a connected home with HomeMaster Plus."
+    }
+  ]
+}
